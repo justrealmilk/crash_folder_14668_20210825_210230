@@ -1,0 +1,49 @@
+stack:
+00007FF75DB92AE6 <unknown>
+00007FF75DB9148A <unknown>
+00007FF75DB8E902 <unknown>
+00007FF75CFB22FF <unknown>
+00007FF75D580FE5 <unknown>
+00007FF75D5818B1 <unknown>
+00007FF75DEBCF3A <unknown>
+00007FFE30827034 <unknown>
+00007FFE322E2651 <unknown>
+session_id:
+Wed_08252021_210141_014668@x64@chapm@CD_8A_73_BF_06_96_D09E
+halt:
+  RELEASE_VHALT
+halt information:
+  hitch detected: mainloop world controller state bootflow:bap_signin {{!24!}} job name: 'network_send', owner: 'system owner' stalled 
+fatal error detected, current status was:
+    init: init.txt
+    version: v500_rc.main tiger_final release pc_x64 96750.21.08.09.1845.v500_rc.main 21.08.09 1845
+    session_id: Wed_08252021_210141_014668@x64@chapm@CD_8A_73_BF_06_96_D09E
+    GPU Device: NVIDIA GeForce RTX 2060 SUPER
+    GPU VendorId: 4318
+    GPU DeviceId: 7942
+    GPU SubSysId: 1073157208
+    GPU Revision: 161
+    silo_id: 1665943537020524544
+    signon_server_reported_content_version: 96750.96750-0
+    authority-over-current-bubble: false - map slice set 'HASH(0x811c9dc5)':-1, activity slice set -1
+    world_controller previous_state: bootflow:package_registration
+    world_controller state: bootflow:bap_signin
+    world_controller state_reason: unavailable
+    environment_string: D2_ProdRetail:1015
+    install type: 5
+    suspected_blocked_thread_id: 0x000033d4
+    system_milliseconds: time 809654
+    timezone_seconds_offset_from_UTC: -36000
+    is_current_bubble_authority: false
+    pc_platform: steam
+    language_system: english
+    language_ui: english
+    language_audio: english
+    language_current: english
+    crash_folder_location: C:\Users\chapm\AppData\Local\Temp\Destiny 2\crash_folder\crash_folder_14668_20210825_210230\
+    primary_bap_server_ip_address: 172.97.56.86
+    primary_bap_server_port: 7501
+    world_controller state_status: bootflow:bap_signin (requested tasks: 0x0000000000fc7fff) (active tasks: 0x0000000000000005) (pending tasks: 0x0000000000f47fe0)
+    player_position_x: unknown
+    player_position_y: unknown
+    player_position_z: unknown

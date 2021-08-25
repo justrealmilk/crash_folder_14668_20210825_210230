@@ -1,0 +1,81 @@
+08.25.21 21:02:30.983 [Misc][Log] Starting 'screenshot' (unknown)
+08.25.21 21:02:30.983 [Misc]   0% bug_screenshot.bmp
+08.25.21 21:02:30.994 [Misc] 100% bug_screenshot.bmp
+08.25.21 21:02:30.994 [Misc][Log] Finished 'screenshot' (unknown)
+08.25.21 21:02:30.995 [Misc][Log] Starting 'crash_info' (unknown)
+08.25.21 21:02:30.995 [Misc]   0% crash_info.txt
+08.25.21 21:02:30.995 [Misc] 100% crash_info.txt
+08.25.21 21:02:30.995 [Misc]   0% global_status_info.txt
+08.25.21 21:02:30.995 [Misc] 100% global_status_info.txt
+08.25.21 21:02:30.995 [Misc]   0% build_repro_info.txt
+08.25.21 21:02:30.996 [Misc] 100% build_repro_info.txt
+08.25.21 21:02:30.996 [Misc][Log] Finished 'crash_info' (unknown)
+08.25.21 21:02:30.996 [Misc][Log] Starting 'crash_propagator' (unknown)
+08.25.21 21:02:30.996 [Misc][Log] Finished 'crash_propagator' (unknown)
+08.25.21 21:02:30.996 [Dump][Log] Starting 'crash_dump' (unknown)
+08.25.21 21:02:30.996 [Dump] 100% minidump.dmp
+08.25.21 21:02:31.909 [Dump] 100% minidump.dmp
+08.25.21 21:02:31.909 [Dump][Log] Finished 'crash_dump' (unknown)
+08.25.21 21:02:31.909 [Misc][Log] Starting 'keyboard_input' (unknown)
+08.25.21 21:02:31.909 [Misc] 100% User input skipped.  Renderer not initialized.
+08.25.21 21:02:31.909 [Misc][Log] Finished 'keyboard_input' (unknown)
+08.25.21 21:02:31.909 [Misc][Log] Starting 'upload_header' (unknown)
+08.25.21 21:02:31.909 [Misc]   0% Gathering header info
+08.25.21 21:02:31.909 [Misc]  50% processing.metadata.xml
+08.25.21 21:02:31.911 [Misc] 100% Done gathering header info
+08.25.21 21:02:31.911 [Misc][Log] Finished 'upload_header' (unknown)
+08.25.21 21:02:31.911 [Misc][Log] Starting 'cortex_retail_selective_crash_dump' (unknown)
+08.25.21 21:02:31.911 [Misc][Log] Dump detected and supports embedding memory. Selective crash dump files will not be written.
+08.25.21 21:02:31.911 [Misc] 100% retail selective crash dump
+08.25.21 21:02:31.911 [Misc][Log] Finished 'cortex_retail_selective_crash_dump' (unknown)
+08.25.21 21:02:31.911 [Misc][Log] Starting 'game_state_core' (unknown)
+08.25.21 21:02:31.911 [Misc][Log] Finished 'game_state_core' (unknown)
+08.25.21 21:02:31.911 [Misc][Log] Starting 'cvars' (unknown)
+08.25.21 21:02:31.911 [Misc]   0% generating cvar files
+08.25.21 21:02:31.911 [Misc] 100% generating cvar files: complete
+08.25.21 21:02:31.911 [Misc][Log] Finished 'cvars' (unknown)
+08.25.21 21:02:31.911 [Misc][Log] Starting 'resourcerer' (unknown)
+08.25.21 21:02:31.911 [Misc]   0% Searching for package files
+08.25.21 21:02:31.911 [Misc] 100% Done searching for package files
+08.25.21 21:02:31.911 [Misc][Log] Finished 'resourcerer' (unknown)
+08.25.21 21:02:31.911 [Misc][Log] Starting 'status' (unknown)
+08.25.21 21:02:31.911 [Misc][Log] Finished 'status' (unknown)
+08.25.21 21:02:31.911 [Misc][Log] Starting 'bap' (unknown)
+08.25.21 21:02:31.911 [Misc][Log] Finished 'bap' (unknown)
+08.25.21 21:02:31.911 [Misc][Log] Starting 'activity_variable' (unknown)
+08.25.21 21:02:31.911 [Misc][Log] Finished 'activity_variable' (unknown)
+08.25.21 21:02:31.911 [Misc][Log] Starting 'retail_datamine' (unknown)
+08.25.21 21:02:31.911 [Misc][Log] Finished 'retail_datamine' (unknown)
+08.25.21 21:02:31.911 [Misc][Log] Starting 'world_controller_state_manager' (unknown)
+08.25.21 21:02:31.911 [Misc][Log] Finished 'world_controller_state_manager' (unknown)
+08.25.21 21:02:32.017 [Done] 100% 
+08.25.21 21:02:32.017 [Done] 100% 
+08.25.21 21:02:32.083 [Done] 100% 
+08.25.21 21:02:32.150 [Done] 100% 
+08.25.21 21:02:32.217 [Done] 100% 
+08.25.21 21:02:32.284 [Done] 100% 
+08.25.21 21:02:32.351 [Done] 100% 
+08.25.21 21:02:32.417 [Done] 100% 
+08.25.21 21:02:32.484 [Done] 100% 
+08.25.21 21:02:32.551 [Done] 100% 
+08.25.21 21:02:32.617 [Done] 100% 
+08.25.21 21:02:32.684 [Done] 100% 
+08.25.21 21:02:32.750 [Done] 100% 
+08.25.21 21:02:32.817 [Done] 100% 
+08.25.21 21:02:32.884 [Done] 100% 
+08.25.21 21:02:32.951 [Done] 100% 
+08.25.21 21:02:33.017 [Done] 100% 
+08.25.21 21:02:33.084 [Done] 100% 
+08.25.21 21:02:33.150 [Done] 100% 
+08.25.21 21:02:33.216 [Done] 100% 
+08.25.21 21:02:33.283 [Done] 100% 
+08.25.21 21:02:33.349 [Done] 100% 
+08.25.21 21:02:33.416 [Done] 100% 
+08.25.21 21:02:33.483 [Done] 100% 
+08.25.21 21:02:33.550 [Done] 100% 
+08.25.21 21:02:33.617 [Done] 100% 
+08.25.21 21:02:33.683 [Done] 100% 
+08.25.21 21:02:33.750 [Done] 100% 
+08.25.21 21:02:33.817 [Done] 100% 
+08.25.21 21:02:33.883 [Done] 100% 
+08.25.21 21:02:33.950 [Done] 100% 

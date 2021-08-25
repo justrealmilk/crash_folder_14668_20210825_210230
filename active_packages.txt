@@ -1,0 +1,24 @@
+---Loaded package---
+Name: packages\w64_client_bootstrap_unp1_0.pkg
+In use: yes
+Size: 2132
+Built by content farm: yes
+Package ID: 258
+Package Version: 0-0
+Build string: 96750
+---Loaded package---
+Name: packages\w64_ui_startup_unp1_0.pkg
+In use: yes
+Size: 1853
+Built by content farm: yes
+Package ID: 256
+Package Version: 0-0
+Build string: 96750
+---Loaded package---
+Name: packages\w64_ui_bootflow_unp1_0.pkg
+In use: yes
+Size: 2227
+Built by content farm: yes
+Package ID: 257
+Package Version: 0-0
+Build string: 96750

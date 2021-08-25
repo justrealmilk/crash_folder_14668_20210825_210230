@@ -1,0 +1,6 @@
+Build: 96750.21.08.09.1845.v500_rc.main___release
+Branch: v500_rc.main
+Game type: tiger_release_final
+Content Revision: 0
+Content Build: 96750
+Content Untracked: 0

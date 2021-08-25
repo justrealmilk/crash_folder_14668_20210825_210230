@@ -1,0 +1,13 @@
+
+; Global files
+/addfile:"C:\Program Files (x86)\Steam\steamapps\common\Destiny 2\sku_config.txt"
+
+; Crash files
+/addfile:"C:\Users\chapm\AppData\Local\Temp\Destiny 2\crash_folder\crash_folder_14668_20210825_210230\bug_screenshot.bmp"
+/addfile:"C:\Users\chapm\AppData\Local\Temp\Destiny 2\crash_folder\crash_folder_14668_20210825_210230\global_status_info.txt"
+/addfile:"C:\Users\chapm\AppData\Local\Temp\Destiny 2\crash_folder\crash_folder_14668_20210825_210230\build_repro_info.txt"
+/addfile:"C:\Users\chapm\AppData\Local\Temp\Destiny 2\crash_folder\crash_folder_14668_20210825_210230\minidump.dmp"
+/addfile:"C:\Users\chapm\AppData\Roaming\Bungie\DestinyPC\prefs\cvars.xml"
+/addfile:"C:\Users\chapm\AppData\Local\Temp\Destiny 2\crash_folder\crash_folder_14668_20210825_210230\active_packages.txt"
+/addfile:"C:\Users\chapm\AppData\Local\Temp\Destiny 2\crash_folder\crash_folder_14668_20210825_210230\activity_variable_info.txt"
+/addfile:"C:\Users\chapm\AppData\Local\Temp\Destiny 2\crash_folder\crash_folder_14668_20210825_210230\report_in_progress.txt"
